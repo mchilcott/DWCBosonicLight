@@ -12,7 +12,7 @@
    viewBox="0 0 93.616722 60.721531"
    version="1.1"
    id="svg8"
-   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
    sodipodi:docname="Equilibriate.svg">
   <defs
      id="defs2">
@@ -111,9 +111,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.000168"
-     inkscape:cx="172.2863"
-     inkscape:cy="165.68662"
+     inkscape:zoom="3.3314157"
+     inkscape:cx="36.077014"
+     inkscape:cy="115.42625"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -124,8 +124,8 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:window-width="1680"
-     inkscape:window-height="991"
+     inkscape:window-width="2560"
+     inkscape:window-height="1375"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1" />
@@ -236,7 +236,7 @@
        id="path877" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:125%;font-family:'CMU Sans Serif';-inkscape-font-specification:'CMU Sans Serif';letter-spacing:0px;word-spacing:0px;fill:#204a87;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23332977px;line-height:125%;font-family:'CMU Sans Serif';-inkscape-font-specification:'CMU Sans Serif';letter-spacing:0px;word-spacing:0px;fill:#204a87;fill-opacity:1;stroke:none;stroke-width:0.26458299px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="43.670288"
        y="136.63849"
        id="text885"><tspan
@@ -244,7 +244,7 @@
          id="tspan883"
          x="43.670288"
          y="136.63849"
-         style="fill:#204a87;stroke-width:0.264583px">Time to equilibriate</tspan></text>
+         style="fill:#204a87;stroke-width:0.26458299px">Time to equilibrate</tspan></text>
     <path
        style="fill:none;fill-rule:evenodd;stroke:#204a87;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Mend)"
        d="m 51.703172,131.61657 c -6.259198,-1.09482 -10.307421,-2.12123 -15.000961,-8.87838"

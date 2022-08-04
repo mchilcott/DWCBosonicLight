@@ -8,9 +8,9 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="512.69598pt"
-   height="361.2843pt"
-   viewBox="0 0 512.696 361.2843"
+   width="512.69592pt"
+   height="383.28976pt"
+   viewBox="0 0 512.69594 383.28976"
    version="1.2"
    id="svg17210"
    sodipodi:docname="deb_fermi_paper.svg"
@@ -40,9 +40,9 @@
      inkscape:window-height="1411"
      id="namedview17212"
      showgrid="false"
-     inkscape:zoom="1.0942203"
-     inkscape:cx="101.65104"
-     inkscape:cy="16.383708"
+     inkscape:zoom="0.92318037"
+     inkscape:cx="144.91621"
+     inkscape:cy="74.197622"
      inkscape:window-x="2560"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -15852,5 +15852,16 @@
        d="m 526.10988,273.30078 c 1.45703,0 2.64063,1.17969 2.64063,2.64063 0,1.46093 -1.1836,2.64453 -2.64063,2.64453 -1.45703,0 -2.64062,-1.1836 -2.64062,-2.64453 0,-1.46094 1.18359,-2.64063 2.64062,-2.64063 m 0,-0.58594 c -1.78125,0 -3.22656,1.44532 -3.22656,3.22657 0,1.78515 1.44531,3.23437 3.22656,3.23437 1.78125,0 3.22656,-1.44922 3.22656,-3.23437 0,-1.78125 -1.44531,-3.22657 -3.22656,-3.22657"
        id="path17003"
        inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;font-family:'CMU Sans Serif';-inkscape-font-specification:'CMU Sans Serif';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="474.35339"
+       y="433.21228"
+       id="text3851"><tspan
+         sodipodi:role="line"
+         id="tspan3849"
+         x="474.35339"
+         y="433.21228"
+         style="stroke-width:0.75px">Science 374 972</tspan></text>
   </g>
 </svg>
