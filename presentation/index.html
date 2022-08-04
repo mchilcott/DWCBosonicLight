@@ -16,7 +16,7 @@
   <body>
     <div class="reveal">
       <div class="slides">
-        <section>
+        <section> <!-- Intro -->
             <section data-background-image="gfx/IMG_5958.JPG" data-auto-animate>
                 <p style="color:#EEE;  background-color:rgba(0,0,0,0.5)">Light scattering from a quantum-degenerate Bose gas</p>
                 <div style="height: 400px"></div>
@@ -46,35 +46,142 @@
                 <video src="gfx/ExpVideo.mp4" ></video>
             </section>
         </section>
-        <section>
+        <section> <!-- Enchancement -->
             <section data-auto-animate>
-                <p>Bose-Einstein statistics give enhancement.</p>
+                <p>Bose-Einstein statistics lead to enhancement.</p>
                 <p>Transition \(\left|1\right&gt; \to \left|2\right&gt;\)</p>
             </section>
             <section data-auto-animate>
-                <p>Bose-Einstein statistics give enhancement.</p>
+                <p>Bose-Einstein statistics lead to enhancement.</p>
                 <p>\(C a_2^\dagger a_1 \left|\psi_1\right&gt;\)</p>
                 <p>\( = C \sqrt{N_1(N_2 + 1)} \left|\psi_2\right&gt;\)</p>
                 <p>\(\mathcal{P}_{1\to 2} =|C|^2 N_1(N_2 + 1) \) </p>
             </section>
             <section data-auto-animate>
-                <p>Bose-Einstein statistics give enhancement.</p>
+                <p>Bose-Einstein statistics lead to enhancement.</p>
                 <p>Structure factor \(S(\vec{q}) = 1 + \left&lt;n(\vec{r}, \vec{p} + \vec{q})\right&gt;\)</p>
             </section>
             <section data-auto-animate>
+                <p>\(S(\vec{q}) = 1 + \left&lt;n(\vec{r}, \vec{p} + \vec{q})\right&gt;\)</p>
+                <img src="gfx/BosonicPhaseSpace.svg" />
+            </section>
+            <section data-auto-animate>
+                <p>Bose / Fermi leads to enhancement / suppression</p>
                 <p>Structure factor \(S(\vec{q}) = 1 \pm \left&lt;n(\vec{r}, \vec{p} + \vec{q})\right&gt;\)</p>
             </section>
             <section>
                 <p>Fermi vs Bose</p>
                 <img src="gfx/deb_fermi_paper.svg" />
             </section>
+        </section>
+        <section> <!-- Enhancement Observations -->
             <section>
-                <p>Bosonic Enhancement</p>
+                <p>Off-axis scattering</p>
                 <img src="gfx/BosonicEnhancementLight.svg" />
                 <p>\(S(\vec{q}) = 1 \pm \left&lt;n(\vec{r}, \vec{p} + \vec{q})\right&gt;\)</p>
             </section>
+            <section>
+                <p></p>
+                <img src="gfx/BoseEnhancementFunction.svg" />
+                <img src="gfx/BosonicPhaseSpace.svg" />
+            </section>
+           <section>
+                <p>Colder clouds show enhancement</p>
+                <img src="gfx/July27b-JustAboveTC.svg" />
+            </section>
+            <section>
+                <p>Colder clouds show enhancement</p>
+                <img src="gfx/ContinuousSigmaPlus.svg" />
+            </section>
+            <section>
+                <p>Colder clouds show enhancement</p>
+                <img src="gfx/July27a-AmitaBump.svg" />
+            </section>
+            <section>
+                <p>Colder clouds show enhancement</p>
+                <img src="gfx/2022-05-18-6GHzRedDetunedLightScattering.svg" />
+            </section>
+            <section>
+                <p>Polarisation dimishes enhancement</p>
+                <img src="gfx/PolarisationExplained.svg" />
+            </section>
+            <section>
+                <p>Polarisation dimishes enhancement</p>
+                <img width="300px" src="gfx/ContinuousSigmaPlus.svg" />
+                <img width="300px" src="gfx/ContinuousSigmaMinus.svg" />
+            </section>
         </section>
-        <section>
+        <section> <!-- Dynamics -->
+            <section>
+                <p>Dynamics: Enhancement</p>
+                <img src="gfx/BosonicEnhancedPhaseSpace.svg" />
+            </section>
+            <section>
+                <img src="gfx/PhaseSpaceSimple.svg" />
+                <p>
+                    \begin{align*}
+                        \dot{n}_\text{therm} &amp;= \alpha - \gamma n_\text{therm}(n_\text{BEC} + 1)\\
+                        \dot{n}_\text{BEC} &amp;= \gamma n_\text{therm}(n_\text{BEC} + 1) - \beta n_\text{BEC} \\
+                    \end{align*}
+                </p>
+            </section>
+           <section>
+                <img src="gfx/PhaseSpaceSimple.svg" />
+                <img src="gfx/ModelSimpleMoreTherm.svg" />
+            </section>
+            
+            <section>
+                <img src="gfx/PhaseSpaceSimple.svg" />
+                <img src="gfx/ModelSimpleMoreBEC.svg" />
+            </section>
+            
+            <section>
+                <p>Dynamics: Depletion</p>
+                <img src="gfx/BosonicDepletedPhaseSpace.svg" />
+            </section>
+            <section>
+                <img src="gfx/PhaseSpaceIO.svg" />
+                <p>
+                    \begin{align*}
+                        \dot{n}_\text{therm,1} &amp;= \alpha - \gamma n_\text{therm}(n_\text{BEC} + 1)\\
+                        \dot{n}_\text{BEC} &amp;= \gamma n_\text{therm}(n_\text{BEC} + 1) - \gamma n_\text{BEC}(n_\text{therm,2} + 1) - \beta n_\text{BEC} \\
+                        \dot{n}_\text{therm,2} &amp;= \gamma n_\text{BEC}(n_\text{therm,2}) + \alpha\\
+                    \end{align*}
+                </p>
+            </section>
+        
+           <section>
+                <img src="gfx/PhaseSpaceIO.svg" />
+                <img src="gfx/ModelIO.svg" />
+            </section>
+        
+            <section data-auto-animate>
+              <p>Probing Equilibrium</p>
+              <img src="gfx/Equilibriate.svg" />
+            </section>
+            <section data-auto-animate>
+              <p>Probing Equilibrium</p>
+              <img width="300px" src="gfx/ContinuousSigmaPlus.svg" />
+              <img width="300px" src="gfx/PulsedSigmaPlus.svg" />
+            </section>
+            <section data-auto-animate>
+                <p>Equilibrium?</p>
+              <img width="300px" src="gfx/PulsedSigmaPlus.svg" />
+            </section>
+        </section>
+        
+        <section> <!-- Superradiance Dynamics -->
+            <section data-auto-animate>
+              <p>Superradiance in the final image</p>
+              <img src="gfx/SuperradCloud.svg" />
+            </section>
+            <section data-auto-animate>
+              <p>Time-of-flight maps velocity space to position space</p>
+              
+              <p>\(\vec{r} = \vec{r_0} + \vec{v} t\)</p>
+              <p color="red">TODO: Img</p>
+            </section>
+            
             <section>
                 <p>Outgoing photon direction well defined?<p>
                 <img src="gfx/BosonicEnhancementLight.svg" />
@@ -82,6 +189,7 @@
             <section data-auto-animate>
                 <p>Superradience</p>
                 <img src="gfx/SuperraddientLightOld.svg" />
+                <img src="gfx/InouyeSuperrad.png" height="600px" />
             </section>
             <section data-auto-animate>
                 <p>Superradience</p>
@@ -92,61 +200,42 @@
                 <img width="400px" src="gfx/BECCloud.svg" />
                 <img width="400px" src="gfx/SuperradCloud.svg" />
             </section>
-            <section>
-                <video src="gfx/2022-06-15-SuperradMovie_10GHzRed_60uW.mp4"></video>
+            
+            <section data-auto-animat>
+                <p>Phase-space interaction</p>
+                <img src="gfx/PhaseSpaceSuperExplained1.svg" />
             </section>
-            <section>
-                <video src="gfx/2022-06-15-SuperradMovie_10GHzRed_40uW.mp4"></video>
+            <section data-auto-animat>
+                <p>Phase-space interaction</p>
+                <img src="gfx/PhaseSpaceSuperExplained2.svg" />
             </section>
+            <section data-auto-animat>
+                <p>Phase-space interaction</p>
+                <img src="gfx/PhaseSpaceSuperExplained3.svg" />
+            </section>
+            
             <section>
-                <video src="gfx/2022-06-17-SuperradMovie_6GHzRed_PulseThenHold.mp4"></video>
+               <img src="gfx/PhaseSpaceSuper.svg" />
+               <img src="gfx/ModelSuper.svg" />
             </section>
         </section>
-        <section>
+        
+        <section> <!-- Superradiance Strangeness -->
             <section>
-                <p>Off-axis Scattering</p>
-                <img src="gfx/AbstractFigure.svg" />
+                <img src="gfx/AmitaMultiImage.svg" />
             </section>
             <section>
-                <p>Enhancement with temperature</p>
-                <img src="gfx/2022-05-18-6GHzRedDetunedLightScattering.svg" />
+                <img src="gfx/HilliardArtifacts.svg" />
             </section>
             <section>
-                <p>Enhancement with temperature</p>
-                <img src="gfx/BoseEnhancementFunction.svg" />
-                <img src="gfx/BosonicPhaseSpace.svg" />
+                <img src="gfx/AngleSuperradImages.svg" />
             </section>
             <section>
-                <img src="gfx/Polarisation.svg" />
+                <p>Light pulse during free-fall</p>
+                <img src="gfx/SuperradNoTrap.svg" />
             </section>
         </section>
-        <section>
-            <section data-auto-animate>
-              <p>Further Questions:</p>
-              <p>Cause of the bump?</p>
-            </section>
-            <section>
-                <p>Enhancement</p>
-                <img src="gfx/BosonicEnhancedPhaseSpace.svg" />
-            </section>
-            <section>
-                <p>Depletion</p>
-                <img src="gfx/BosonicDepletedPhaseSpace.svg" />
-            </section>
-            <section data-auto-animate>
-              <p>Further Questions:</p>
-              <p>Interaction with superradience?</p>
-              <img src="gfx/SuperradCloud.svg" />
-            </section>
-            <section data-auto-animate>
-              <p>Further Questions:</p>
-              <p>Comparative equilibrium system?</p>
-              <img src="gfx/Equilibriate.svg" />
-            </section>
-        </section>
-        <section>
-                <img src="gfx/AbstractFigure.svg" />
-        </section>
+        
       </div>
     </div>
 
