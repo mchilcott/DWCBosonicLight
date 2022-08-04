@@ -8,9 +8,9 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="254.05469pt"
-   height="207.71451pt"
-   viewBox="0 0 254.05469 207.71451"
+   width="254.05467pt"
+   height="190.53906pt"
+   viewBox="0 0 254.05467 190.53906"
    version="1.2"
    id="svg7258"
    sodipodi:docname="BoseEnhancementFunction.svg"
@@ -37,20 +37,20 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="2560"
-     inkscape:window-height="1411"
+     inkscape:window-height="1375"
      id="namedview7260"
      showgrid="false"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:zoom="1.8867927"
-     inkscape:cx="222.98943"
-     inkscape:cy="242.13938"
-     inkscape:window-x="2560"
+     inkscape:zoom="4.4442812"
+     inkscape:cx="198.02535"
+     inkscape:cy="132.96646"
+     inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="surface14799" />
+     inkscape:current-layer="g757" />
   <defs
      id="defs745">
     <g
@@ -3264,13 +3264,13 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;font-family:'CMU Sans Serif';-inkscape-font-specification:'CMU Sans Serif';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="357.29938"
-       y="259.61273"
+       x="347.17401"
+       y="60.480419"
        id="text8071"><tspan
          sodipodi:role="line"
          id="tspan8069"
-         x="357.29938"
-         y="259.61273"
+         x="347.17401"
+         y="60.480419"
          style="stroke-width:0.75px">arXiv:2204.06639v1</tspan></text>
   </g>
 </svg>
